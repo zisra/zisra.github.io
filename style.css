@@ -96,17 +96,13 @@ body {
 }
 .social {
   margin: 8px;
-  transition: 0.3s;
 }
 #discord:hover {
   fill: #5865f2;
-  transition: 0.3s;
 }
 #youtube:hover {
   fill: #ff0000;
-  transition: 0.3s;
 }
 #github:hover {
   fill: #6e5494;
-  transition: 0.3s;
 }
